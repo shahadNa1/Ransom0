@@ -13,6 +13,7 @@
  
 <p align="center">
   Ransom0 is an open source ransomware made with Python, designed to find and encrypt user data. 
+ Note: Please use it for research and study purposes only and apply in a legal environment and I am not responsible for misuse.
   <img src="https://hugolb0.000webhostapp.com/ransom0_main.png">
 </p>
 
